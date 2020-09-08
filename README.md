@@ -21,3 +21,6 @@ The goal of the project is to understand the dataset, and compare 2 great slugge
 * Strikezone
 
 Even though both hitters had very similar homerun numbers their hitting profiles are completely different. Aaron Judge's homeruns generally have a higher launch speed and lower launch angle than Giancarlo Stanton's homeruns. On average, Aaron Judge also hits homeruns on faster pitches than Stanton does. Like most great power hitters, both players hit a lot of homeruns on pitches in the center of the strikezone. Judge is least likely to hit a home run on pitches high and away while Stanton does not hit many home runs low and away. Regardless, I would not want to pitch against either of these hitters.
+
+## Next Steps
+I would like to delve deeper into the types of pitches each player prefers hitting. While also looking into factors such as the stadium they are playing in and whether they are against right or left handed pitchers.
